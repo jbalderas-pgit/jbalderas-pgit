@@ -1,11 +1,11 @@
-Hello! 👋
-I'm Juan, I am a Software Engineer based out of Phoenix, Arizona!☀️
+Hello!
+I'm Juan, I am a Software Engineer based out of Phoenix, Arizona!
 
 I am actively working on my Bachelors in Computer Science.
 
 I have worked on Frontend web design in Next.JS, React, TypeScript, and Tailwind CSS.
 
-I have experience with general purpose-languages such as C, Java, and Python.
+I have experience with general purpose-languages such as C/C++, Java, and Python.
 
 I am actively seeking internships. 
 
